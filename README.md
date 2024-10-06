@@ -16,6 +16,7 @@ This project is a **Credit Calculator** application designed to calculate credit
 ```bash
  gcc main.c -o credit_calculator
  ./credit_calculator
+```
 
 2. Run the Node.js server:
 ```bash
